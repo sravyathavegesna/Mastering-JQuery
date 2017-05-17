@@ -1,0 +1,67 @@
+{  
+   "menu":{  
+         "icecreams":[  
+            {  
+               "name":"Vanilla",
+               "id":"vanillaId",
+               "price":2.40,
+               "description":"Originally created by cooling a mixture made of cream, sugar, and vanilla above a container of ice and salt.",
+               "rating": 5,
+               "reviews": 15,
+               "imgPath":"http://3.bp.blogspot.com/_hNUzNNaIAAw/SyleBBdDsYI/AAAAAAAAHGw/kptoUW0fmyI/s320/winnieab",
+               "numOfStars":5
+            },
+            {  
+               "name":"Strawberry",
+               "id":"strawberryId",
+               "price":2.40,
+               "description":"Originally created by cooling a mixture made of cream, sugar, and vanilla above a container of ice and salt.",
+               "rating": 4,
+               "reviews": 15,
+               "imgPath":"http://3.bp.blogspot.com/_hNUzNNaIAAw/SyleBBdDsYI/AAAAAAAAHGw/kptoUW0fmyI/s320/winnieab",
+               "numOfStars":5
+            },
+            {  
+               "name":"Chocolate",
+               "id":"chocolateId",
+               "price":2.40,
+               "description":"Originally created by cooling a mixture made of cream, sugar, and vanilla above a container of ice and salt.",
+               "rating": 3,
+               "reviews": 15,
+               "imgPath":"http://3.bp.blogspot.com/_hNUzNNaIAAw/SyleBBdDsYI/AAAAAAAAHGw/kptoUW0fmyI/s320/winnieab",
+               "numOfStars":5
+            },
+            {  
+               "name":"Pistachio",
+               "id":"pistaId",
+               "price":2.40,
+               "description":"Originally created by cooling a mixture made of cream, sugar, and vanilla above a container of ice and salt.",
+               "rating": 2,
+               "reviews": 15,
+               "imgPath":"http://3.bp.blogspot.com/_hNUzNNaIAAw/SyleBBdDsYI/AAAAAAAAHGw/kptoUW0fmyI/s320/winnieab",
+               "numOfStars":5
+            },
+            {  
+               "name":"Cookie and Cream",
+               "id":"cookiencreamId",
+               "price":2.40,
+               "description":"Originally created by cooling a mixture made of cream, sugar, and vanilla above a container of ice and salt.",
+               "rating": 1,
+               "reviews": 15,
+               "imgPath":"http://3.bp.blogspot.com/_hNUzNNaIAAw/SyleBBdDsYI/AAAAAAAAHGw/kptoUW0fmyI/s320/winnieab",
+               "numOfStars":5
+            },
+            {  
+               "name":"Fruit and nut",
+               "id":"fruitnnutId",
+               "price":2.40,
+               "description":"Originally created by cooling a mixture made of cream, sugar, and vanilla above a container of ice and salt.",
+               "rating": 4,
+               "reviews": 15,
+               "imgPath":"http://3.bp.blogspot.com/_hNUzNNaIAAw/SyleBBdDsYI/AAAAAAAAHGw/kptoUW0fmyI/s320/winnieab", 
+               "numOfStars":5
+            }
+
+         ]
+   }
+}
